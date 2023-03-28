@@ -1,5 +1,18 @@
 # Dice-Roll
-
+**********************
+ * Files: Main.java, Draw.java, Game.java, Play.java
+ * Author: Mohamedamin Mohamed
+ * Contact mohamedamin204080@gmail.com
+ * created: 12/13/2022
+ * Modified: 03/28/2022
+ * Description:
+ * This program is a dice rolling game that works as follows:
+   - Players take turns rolling 6-sided dice to do score damage points on each other.
+   - Before each turn, a player wagers up to 10 of their own hit-points. This number is
+     multiplied by the number that the player rolls during that turn. 
+   - If a player rolls a "1", 2 times the number of hitpoints wagered is returned to that player.
+   - The game is over when a player runs out of hitpoints.
+ **********************/
 
 
 ## Getting started
